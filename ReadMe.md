@@ -4,7 +4,7 @@
 
 ## Modules:
 
-- Module 0: (Re)Introduction to Practical Machine Learning
+- **Module 0**: (Re)Introduction to Practical Machine Learning
 
 
 
